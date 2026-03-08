@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:  -->
 
-- 🔭 Trabajo en CDIAR
+- 🔭 Busco trabajo
 - 🌱 Aprendo jsp y plsql
 - 👯 Collaboramos en lo que se pueda
-- 🤔 Ayuda con spoon
-- 💬 Pregunta lo que gustes
+- 🤔 Busco apoyo en desarrollo de apps aplicadas
+- 💬 Preguntame lo que gustes
 - 📫 Telegram user: rrcarrion
 - 😄 Dr
 - ⚡ !!!
